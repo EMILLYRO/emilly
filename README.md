@@ -1,2 +1,2 @@
 # emilly
-exercícios de lógica e progamação
+exercícios de lógica e programação
